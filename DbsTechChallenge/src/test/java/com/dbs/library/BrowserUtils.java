@@ -54,7 +54,7 @@ public class BrowserUtils {
 					preferences.put("profile.content_settings.exceptions.automatic_downloads.*.setting", 1);
 					preferences.put("download.default_directory", downloadFilepath);
 					System.setProperty("webdriver.chrome.driver",
-							"src/test/java/com/bgp/support/drivers/chromedriver.exe");
+							"src/test/java/com/dbs/support/drivers/chromedriver.exe");
 					ChromeOptions chromeOptions = new ChromeOptions();
 					//chromeOptions.addArguments("disable-extensions");
 					chromeOptions.addArguments("start-maximized");
