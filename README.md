@@ -22,6 +22,7 @@ This README would normally document whatever steps are necessary to get your app
 	5. Maven Cucumber reporting : 5.0.0
 
 * Clone the project "git clone https://nvenkatachalam@bitbucket.org/nvenkatachalam/dbschallengerepo.git"
+* Clone the project "git clone https://github.com/venkatachalam/Dbschallenge.git"
 
 * How to run tests
 	1. Run as maven using following commands
